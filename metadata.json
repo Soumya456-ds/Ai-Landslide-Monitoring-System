@@ -1,0 +1,6 @@
+{
+  "name": "Pegasus - AI Landslide Early Warning System (NER)",
+  "description": "Smart India Hackathon 2026 AI-powered landslide early warning and risk monitoring platform for North Eastern Region (SIH26001). Real-time IoT mesh, InSAR satellite deformation, explainable AI risk scoring, and automated multi-tier emergency response.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
